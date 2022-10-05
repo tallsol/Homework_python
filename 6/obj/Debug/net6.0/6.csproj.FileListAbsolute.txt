@@ -1,0 +1,5 @@
+D:\git\python\6\obj\Debug\net6.0\6.csproj.AssemblyReference.cache
+D:\git\python\6\obj\Debug\net6.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\python\6\obj\Debug\net6.0\6.AssemblyInfoInputs.cache
+D:\git\python\6\obj\Debug\net6.0\6.AssemblyInfo.cs
+D:\git\python\6\obj\Debug\net6.0\6.csproj.CoreCompileInputs.cache
